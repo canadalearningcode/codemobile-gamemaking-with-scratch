@@ -13,6 +13,12 @@ Preview Slides: https://ladieslearningcode.github.io/codemobile-gamemaking-with-
 
 100 Meter Dash (1 hour): <a href="https://docs.google.com/document/d/15HDkQQvsdUfE6n_YMb3dJ7Dm2iv_62ZBNDN4bnUqifM/edit?usp=sharing">Solution Sheet</a>
 
+### Tag Game version
+
+Preview Slides: https://ladieslearningcode.github.io/codemobile-gamemaking-with-scratch/slides3-en.html
+
+Tag Game (1 hour): <a href="https://docs.google.com/document/d/1TBFRpxi2nIj8dKXbfu029J3rl39cGh7VpjswdNvmX5A/edit?usp=sharing">Solution Sheet</a>
+
 
 ## Création d'un jeu (FR)
 
@@ -27,6 +33,8 @@ Jeu d’évasion (simplifié pour 1 heure) : <a href="https://drive.google.com/f
 Aperçu des diapositives: https://ladieslearningcode.github.io/codemobile-gamemaking-with-scratch/slides2-fr.html
 
 Course du 100 m (1 heure) : <a href="https://drive.google.com/file/d/0B_fFXOTsCzY7bVZDVDU2UDd1SDN3OFI3eWlxalhfS2w3djRV/view?usp=sharing">Corrigé</a>
+
+### Tag Game (coming soon)
 
 
 <br><br>
