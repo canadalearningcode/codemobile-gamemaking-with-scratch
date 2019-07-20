@@ -34,7 +34,12 @@ Aperçu des diapositives: https://ladieslearningcode.github.io/codemobile-gamema
 
 Course du 100 m (1 heure) : <a href="https://drive.google.com/file/d/0B_fFXOTsCzY7bVZDVDU2UDd1SDN3OFI3eWlxalhfS2w3djRV/view?usp=sharing">Corrigé</a>
 
-### Tag Game (coming soon)
+### Jeu du chat (tague)
+
+Aperçu des diapositives: https://ladieslearningcode.github.io/codemobile-gamemaking-with-scratch/slides3-fr.html
+
+Jeu du chat (tague - 1 heure) : <a href="https://docs.google.com/document/d/15XqWnDo9S2JOlIhlfTZF3mzaOqWP0BZ5Wt34Qnfje4c/edit?usp=sharing">Corrigé</a>
+
 
 
 <br><br>
