@@ -44,4 +44,4 @@ Jeu du chat (tague - 1 heure) : <a href="https://docs.google.com/document/d/15Xq
 
 <br><br>
 
-Content created by Kassandra Lenters and Eden Beronio.
+Content created by Kassandra Lenters and Eden Beronio. Tag Game created by Courtney Schreiter.
